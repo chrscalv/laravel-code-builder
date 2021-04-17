@@ -8,4 +8,13 @@ use Illuminate\Database\Eloquent\Model;
 class {{ class }} extends Model
 {
     use HasFactory;
+
+    protected $fillable = []
+
+    protected $cast = []
+
+    public function {{method}}()
+    {
+        return null;
+    }
 }

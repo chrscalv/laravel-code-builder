@@ -13,5 +13,10 @@
     "require": {
         "laravel/passport": "^10.1",
         "pbmedia/laravel-ffmpeg": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "chrstcalv\\Generator\\": "src/"
+        }
     }
 }
