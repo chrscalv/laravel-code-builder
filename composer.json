@@ -1,0 +1,14 @@
+{
+    "name": "chrstcalv/laravel-code-builder",
+    "description": "laravel code generator or code builder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "christopher calvin",
+            "email": "chrscalvn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
