@@ -10,5 +10,8 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "laravel/passport": "^10.1",
+        "pbmedia/laravel-ffmpeg": "^7.5"
+    }
 }
